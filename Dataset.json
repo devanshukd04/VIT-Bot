@@ -1,0 +1,482 @@
+{
+    "intents": [
+        {
+            "intent": "Institute1",
+            "text": [
+                "When does the VIT Pune establish?",
+                "\nwhat is establishment year of VIT pune?"
+            ],
+            "responses": [
+                "VIT Pune Established in the year 1983."
+            ]
+        },
+        {
+            "intent": "Institute2",
+            "text": [
+                "VIT pune is affliated to which university?"
+            ],
+            "responses": [
+                "VIT PUne is affliated with SPPU(Savitribai Phule Pune University)"
+            ]
+        },
+        {
+            "intent": "Institute3",
+            "text": [
+                "IS VIT pune Autonomus?"
+            ],
+            "responses": [
+                "VIT Pune is autonomus instititute afflicated with affliated with SPPU(Savitribai Phule Pune University), The Institute has been granted autonomous status since academic year 2008-09 and has autonomous status upto 2030."
+            ]
+        },
+        {
+            "intent": "Institute4",
+            "text": [
+                "What is objective of VIT Pune?"
+            ],
+            "responses": [
+                "objective of VIT is to impart quality technical education for the overall development of students and the latest need of Society in general and Industry in particular."
+            ]
+        },
+        {
+            "intent": "Institute5",
+            "text": [
+                "What is NIRF ranking of VIT pune?"
+            ],
+            "responses": [
+                "As per the NIRF ranking 2021, VIT Pune has been ranked 122 among engineering institutions with an overall score of 36.82."
+            ]
+        },
+        {
+            "intent": "Institute6",
+            "text": [
+                "Tell me somting about VIT Pune"
+            ],
+            "responses": [
+                "Vishwakarma Institute of Technology, Pune, a highly commendable private institute, occupies a place of pride amongst the premier technical institutes of the western region of India. Established in the year 1983, financed and run by the Bansilal Ramnath Agrawal Charitable Trust, Pune. It is affiliated to the University of Pune . Within three decades, the institute marched towards the pinnacle of glory through its remarkable achievements and laurels in the field of engineering education of high calibre. According to Indian history, 'Vishwakarma' is a divine architect-engineer. It is believed that He fashioned this world with His rare engineering skills. The Trust adopted this name with a vision to develop engineers of high calibre, who could take up challenges of any type of engineering job and become successful in the chosen career."
+            ]
+        },
+        {
+            "intent": "Institute7",
+            "text": [
+                "Tell me some features of VIT Pune"
+            ],
+            "responses": [
+                "The Institute is running 9 under graduate, 8 post-graduate & 6 Ph.D. Programme which are affiliated to the University of Pune.\nThe Institution was selected under the world bank project TEQIP Phase- I i.e. Technical Education Quality Improvement Programme by Ministry of HRD, New Delhi.\nThe Institution is ISO 9001-2015 certified by BSI, India.\nThe Institute has been granted autonomous status since academic year 2008-09 and has autonomous status upto 2030.\nThe Institute was accredited ('A++' Grade ) by National Assessment and Accreditation Council (NAAC), Bangalore from November 2018 for the next five years."
+            ]
+        },
+        {
+            "intent": "Institute8",
+            "text": [
+                "Who runs VIT Pune?"
+            ],
+            "responses": [
+                "Vishwakarma Institute of Technology, Pune is run by Bansilal Ramnath Agarwal Charitable Trust (BRACT). The Trust was established on the 16th of June 1975 under Bombay Trust Act of 1950. "
+            ]
+        },
+        {
+            "intent": "Institute9",
+            "text": [
+                "When does the BRACT established? "
+            ],
+            "responses": [
+                "The Trust was established on the 16th of June 1975 under Bombay Trust Act of 1950."
+            ]
+        },
+        {
+            "intent": "Institute10",
+            "text": [
+                "What is BRACT?"
+            ],
+            "responses": [
+                "Vishwakarma Institute of Technology, Pune is run by Bansilal Ramnath Agarwal Charitable Trust (BRACT). The Trust was established on the 16th of June 1975 under Bombay Trust Act of 1950. The Trust undertakes educational, religious and social activities. \"Vishwakarma\" as per Indian mythology, is an architect-engineer of the Gods. The Trust has adopted this name with a vision to develop engineers who can take up challenges in technical field with original work and creativity."
+            ]
+        },
+        {
+            "intent": "Institute11",
+            "text": [
+                "Who is the Chief Trustee of BRACT?"
+            ],
+            "responses": [
+                "Mr. Rajkumar B. Agarwal is the Chief Trustee of BRACT."
+            ]
+        },
+        {
+            "intent": "Institute12",
+            "text": [
+                "Who are the trusteee of BRAC?"
+            ],
+            "responses": [
+                "Mr. Rajkumar B. Agarwal is the Chief Trustee of BRACT. Where as Mrs. Amita Rajkumar Agarwal, Mr. Bharat R. Agarwal, Mr. Mahendrakumar Patodia are trustee."
+            ]
+        },
+        {
+            "intent": "Institute13",
+            "text": [
+                "What is the vision of VIT Pune?"
+            ],
+            "responses": [
+                "\"To be globally acclaimed Institute in Technical Education and Research for holistic Socio-economic development\"."
+            ]
+        },
+        {
+            "intent": "Institute14",
+            "text": [
+                "What is the mission of VIT?"
+            ],
+            "responses": [
+                "To ensure that 100% students are employable and employed in Industry, Higher Studies, become Entrepreneurs, Civil / Defense Services / Govt. Jobs and other areas like Sports and Theatre.\nTo strengthen Academic Practices in terms of Curriculum, Pedagogy, Assessment and Faculty Competence.\nPromote Research Culture among Students and Faculty through Projects and Consultancy.\nTo make students Socially Responsible Citizen."
+            ]
+        },
+        {
+            "intent": "Institute15",
+            "text": [
+                "what is the address of VIT? "
+            ],
+            "responses": [
+                "Vishwakarma Institute of Technology, 666, Upper Indiranagar, Bibwewadi, Pune, Maharashtra, INDIA - 411 037."
+            ]
+        },
+        {
+            "intent": "Institute16",
+            "text": [
+                "Where is VIT?"
+            ],
+            "responses": [
+                "VIT is located in Pune city. "
+            ]
+        },
+        {
+            "intent": "Club1",
+            "text": [
+                "How many Techical clubs are there."
+            ],
+            "responses": [
+                "MLSC,IEEE,TRF,VELOCE,ENDURANCE,DSC,CSI,QSOC,ESOC,Technocrats,ISA,Abhivriddhi,Graffiin,Eksutram"
+            ]
+        },
+        {
+            "intent": "Club2",
+            "text": [
+                "How many Non-Techical clubs are there."
+            ],
+            "responses": [
+                "Diva,Yuj,Arroh,zephyr,V-click,antriksha,Mirage"
+            ]
+        },
+        {
+            "intent": "Club3",
+            "text": [
+                "How many clubs related to COMP dept available in college"
+            ],
+            "responses": [
+                "IEEE,CSI,MLSC,DSC"
+            ]
+        },
+        {
+            "intent": "Club4",
+            "text": [
+                "Total number of clubs available in college"
+            ],
+            "responses": [
+                "There are 37 clubs available in college "
+            ]
+        },
+        {
+            "intent": "Club5",
+            "text": [
+                "What is CSI club"
+            ],
+            "responses": [
+                "CSI club is a technical club. It stands for Computer Society of India. Community of students for sharing ideas and enhancing skills."
+            ]
+        },
+        {
+            "intent": "Club6",
+            "text": [
+                "What does IEEE do "
+            ],
+            "responses": [
+                "IEEE VIT pune is administered by a bunch of tech freaks and gearheads who indulged themselves in exploring and bringing the latest technology to its members. The executive team members come from variety backgrounds and diverse interests. From programming geniuses  to research geeks, they have expertise in every crucial domain in demand "
+            ]
+        },
+        {
+            "intent": "Club7",
+            "text": [
+                "What does MLSC do"
+            ],
+            "responses": [
+                "A local tech community functioning under the wing of Microsoft.We believe in educating,empowering & creating an impact!"
+            ]
+        },
+        {
+            "intent": "Club8",
+            "text": [
+                "What is Veloce club"
+            ],
+            "responses": [
+                "Veloce Racing is the 'Formula Student' Team of Vishwakarma Institute of Technology, Pune."
+            ]
+        },
+        {
+            "intent": "Club9",
+            "text": [
+                "What is Endurance club"
+            ],
+            "responses": [
+                "Endurance Racing represents Vishwakarma Institute of Technology, Pune at BAJA and other off-road events for undergraduates across the globe. Our team designs, manufactures and races an All Terrain Vehicle(ATV) to compete in a national level competition held at Pithampur, Indore organized by SAE INDIA. The objective of the team is to build a robust and sophisticated vehicle with state of art manufacturing to withstand the harshest elements of rough terrain. Along with this the team also focuses on creating great designs & innovations to improve the performance of their vehicle."
+            ]
+        },
+        {
+            "intent": "Club10",
+            "text": [
+                "What does ESOC club"
+            ],
+            "responses": [
+                "The Economics Society provide students with information and literature concerning the field of economics to foster social and intellectual ideas for an unbiased and well-balanced perspective. The club strives to extend the economics concept beyond the realms of theory by implementing it practically by conducting different webinars, workshops, and biweekly discussions."
+            ]
+        },
+        {
+            "intent": "Club11",
+            "text": [
+                "What does TIF club"
+            ],
+            "responses": [
+                "VIT Pune's Official Investment Club. Its aim is to help Students Achieve Financial Freedom. It gives students Daily Stock Market News"
+            ]
+        },
+        {
+            "intent": "Club12",
+            "text": [
+                "What does DSC do"
+            ],
+            "responses": [
+                "In DSC, students grow their knowledge in a peer-to-peer learning environment and build solutions for local businesses and their community."
+            ]
+        },
+        {
+            "intent": "Club13",
+            "text": [
+                "What does Technocrats do"
+            ],
+            "responses": [
+                "Technocrats club is a bunch of coders and geeks from VIT Pune to upskill fellow students and take their software development game to the next level. We conduct workshops in various domains ranging from Android development, Web development, Game design, UI/UX etc."
+            ]
+        },
+        {
+            "intent": "Club14",
+            "text": [
+                "What does VishwaConclave do"
+            ],
+            "responses": [
+                "We strive to be an event that brings about an active change in society by sparking curiosity among the youth. Club believes that people atttend VishwaConclave not just for content, but for the overall event experience, networking, and a sense of satisfaction and knowedge. Utimately, it is all about the choices we make, the  actions we take, our responses, and the courage to make it out of the shell and explore the unseen.  "
+            ]
+        },
+        {
+            "intent": "Club15",
+            "text": [
+                "What does ISA do"
+            ],
+            "responses": [
+                "The International Society of Automation (ISA) Vishwakarma Institute of Technology (VIT) Chapter is an active student organization that organizes several technical activities including but not limited to workshops, competitions, technical expertise lectures for its student members."
+            ]
+        },
+        {
+            "intent": "Club16",
+            "text": [
+                "What does Ekasutram do"
+            ],
+            "responses": [
+                "Ekasutram is a student-run and faculty guided club which caters to the maths loving population of VIT. It was an initiative taken by four students in the year 2015 to create interest about the subject and hone the mathematical skills of students."
+            ]
+        },
+        {
+            "intent": "Club17",
+            "text": [
+                "what does the zyper do?"
+            ],
+            "responses": [
+                "The Official Dance Club of VIT"
+            ]
+        },
+        {
+            "intent": "Club18",
+            "text": [
+                "What does TRF do"
+            ],
+            "responses": [
+                "The Robotics Forum is VIT Pune's premier robotics club, with a 15-year legacy. Students from various engineering disciplines make up our varied community, all of whom are driven by a passion for robotics. The goal of the team is to gain new skills, explore new technologies, and promote the area of robotics. The club has won Roboccon prizes and national competitions, as well as holding successful workshops with enthusiastic participation. Each member of this family is provided insight into mechanical engineering, basic electronics, programming concepts and informatory aids besides the indispensable guidance of experienced members."
+            ]
+        },
+        {
+            "intent": "Department 1",
+            "text": [
+                "How many departments are present in VIT Pune?"
+            ],
+            "responses": [
+                "There are 9 departments in VIT Pune"
+            ]
+        },
+        {
+            "intent": "Department 2",
+            "text": [
+                "Name all the departments in VIT pune"
+            ],
+            "responses": [
+                "Department Of Chemical Engineering, Department Of Information Technology, Department Of Computer Engineering, Department Of Engineering Science And Humanities, Department Of Instrumentation Engineering, Department Of Mechanical Engineering, Department Of E & Tc Engineering, Department Of Artificial Intelligence & Data Science, Master Of Computer Application Etc."
+            ]
+        },
+        {
+            "intent": "Department 3",
+            "text": [
+                "How many programmes does the VIT pune run? "
+            ],
+            "responses": [
+                "The Institute is running 9 under graduate, 8 post-graduate & 6 Ph.D. Programme which are affiliated to the University of Pune."
+            ]
+        },
+        {
+            "intent": "Department 4",
+            "text": [
+                "Tell me something about comp department"
+            ],
+            "responses": [
+                "Vishwakarma Institute of Technology started undergraduate course in Computer Engineering in 1991 and postgraduate course in 2001. The Doctoral Program in Computer Engineering has been introduced from the academic year 2011."
+            ]
+        },
+        {
+            "intent": "Department 6",
+            "text": [
+                "How many modules are there for each Department."
+            ],
+            "responses": [
+                "2 Modules"
+            ]
+        },
+        {
+            "intent": "Department 7",
+            "text": [
+                "What were the subjects that are taught in Information Technology Department"
+            ],
+            "responses": [
+                "ADS, CN, DSAAT, DMADM, DS, COAA, IOT, OOP\n\n"
+            ]
+        },
+        {
+            "intent": "Department 8",
+            "text": [
+                "What is the department of first year students called"
+            ],
+            "responses": [
+                "DESH(Department of Engineering Science and Humanity)"
+            ]
+        },
+        {
+            "intent": "Department 9",
+            "text": [
+                "What were the subjects that are taught in Computer Engineering Department"
+            ],
+            "responses": [
+                "Data structure, Theory of Computation, Software Engineering, Database Management System, Data Science, IOT(Internet of Things), OOP(Object Oriented Programming), COAA(Computer Oganization and Architechture)."
+            ]
+        },
+        {
+            "intent": "faculty1",
+            "text": [
+                "Who is the best faculty in VIT?"
+            ],
+            "responses": [
+                "It all depaends on your personal expriences. Each teacher tries his best to impart knowledge to his students. "
+            ]
+        },
+        {
+            "intent": "Subjects1",
+            "text": [
+                "What were the subjects that are taught in Mechnical Engineering Department"
+            ],
+            "responses": [
+                "ASSOMAM(Analysis and simulation of machines and mechanism), Thermodynamics, Fluid Engineering, SMACA(Solid Modeling and Computational Analysis), Machine Design, Heat Transfer, Electronic Vehicle, Robotics, 3D Printing, Hybrid and Electronic Vehicle, Mechatronics, Mechanical System Design, Dynamics of Machines, Materials and Process Engineering, Applied Thermal Engineering, Hydraulic Machines and Fluid Power"
+            ]
+        },
+        {
+            "intent": "Subjects2",
+            "text": [
+                "What were the subjects that are taught in ENTC Department"
+            ],
+            "responses": [
+                "Data Communication, Advanced Data Structure, Digital System, Industrial Electronics, Signal Processing, computer Vision, Digital Design, Design and Analysis of Algorithms, Web Technology, Operatinng System, Embedded System Design, Database Management System, Machine Learning, OpenCV"
+            ]
+        },
+        {
+            "intent": "Subjects3",
+            "text": [
+                "What were the subjects that are taught in DESH Department"
+            ],
+            "responses": [
+                "Problem Solving and Programming, Robot Mechanics and Electronics, Cognitive Aptitude, Human Engineering, Mobile Application Development, Computing with Python, System Engineering, Mechatronics and Electronics, Engineering Mathematics"
+            ]
+        },
+        {
+            "intent": "Subjects4",
+            "text": [
+                "What were the subjects that are taught in Computer Engineering Department"
+            ],
+            "responses": [
+                "Data structure, Theory of Computation, Software Engineering, Database Management System, Data Science, IOT(Internet of Things), OOP(Object Oriented Programming), COAA(Computer Oganization and Architechture), Software Modelling and Design, Artificial Ineteligence, Compiler Design, Design and Analysis of Algorithms, Web Technology"
+            ]
+        },
+        {
+            "intent": "Subjects5",
+            "text": [
+                "What were the subjects that are taught in Information Technology Department"
+            ],
+            "responses": [
+                "ADS, CN(Computer Networking), DSAAT, DMADM, DS(Data Science), IOT(Internet of Things), OOP(Object Oriented Programming), COAA(Computer Oganization and Architechture), Web Technology and Cloud Computing, Design and Analysis of Algorithm, Machine Learning and Deep Learning, System Programming\n\n"
+            ]
+        },
+        {
+            "intent": "Subjects6",
+            "text": [
+                "What were the subjects that are taught in Chemical Department "
+            ],
+            "responses": [
+                "Process Calculations, Physical and Organic Chemistry, Chemical Process Technology, Particulate Technology, Fluid Flow Mechanics, Internet of Things, Data Science, Object Oriented Programming, 3-D Printing, Instrumentation and Process Control, Process Equipment Design, Separation techniques, Chemical Reaction Engineering"
+            ]
+        },
+        {
+            "intent": "Subjects7",
+            "text": [
+                "What were the subjects that are taught in AIDS Department"
+            ],
+            "responses": [
+                "Advanced Data Structure, Discrete Structure and Automata Theory, Computer Network, Database Management and Data Mining"
+            ]
+        },
+        {
+            "intent": "Subjects8",
+            "text": [
+                "What were the subjects that are taught in Production Department"
+            ],
+            "responses": [
+                "Machine tools and Processes, Kinematics and Thermo-Fluid Machines, Mechanical Design, Material Science and Metallurgy, 3D Printing, Forming Technology and Tool Design, Advanced Manufacturing Processes, Computer aided Engineering Analysis, Manufacturing Automation"
+            ]
+        },
+        {
+            "intent": "Subjects9",
+            "text": [
+                "What were the subjects that are taught in Instrumentation Department"
+            ],
+            "responses": [
+                "Advanced Data Structure, Data Communication, Signal and Image Processing, Industrial Automation"
+            ]
+        },
+        {
+            "intent": "Subjects10",
+            "text": [
+                "What were the subjects that are taught in Industrial Department"
+            ],
+            "responses": [
+                "Project Management and Entrepreneurship Development, World Class Manufacturing and Industry 4.0, Operations modelling and Simulation, Logistic and Supply Chain Management"
+            ]
+        }
+    ]
+}
